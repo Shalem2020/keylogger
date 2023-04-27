@@ -7,7 +7,8 @@ A keylogger is a form of malware or hardware that keeps track of and records you
 - WWindows
 
 ## Usage 
--`git clone`
+-**`git clone`**
+
 -`python3 keylogger.py`
 
 
